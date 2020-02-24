@@ -12,7 +12,7 @@
 
 ## Syarat Tugas Praktikum diterima
 1. Struktur Folder rapi. Contoh : <br />
-<center> ![Struktur Folder](/images/struktur_folder.png) </center>
+<div align="center"> ![Struktur Folder](/images/struktur_folder.png) </div>
 2. *Satu Kelas*, *Satu File*
 
 *****
