@@ -11,10 +11,10 @@
 *****
 
 ## Syarat Tugas Praktikum diterima
-1. Struktur Folder rapi. Contoh :
--> ![Struktur Folder](/images/struktur_folder.png) <-
+1. Struktur Folder rapi. Contoh : <br />
+<center> ![Struktur Folder](/images/struktur_folder.png) </center>
 2. *Satu Kelas*, *Satu File*
 
 *****
 
--> > I don't need your score, I need your skill - Unknown <-
+<center> > I don't need your score, I need your skill - Unknown </center>
