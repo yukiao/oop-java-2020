@@ -16,4 +16,4 @@
 2. *Satu Kelas*, *Satu File*
 
 *****
-> I don't need your score, I need your skill - Unknown {align=center}
+> <div align="center">I don't need your score, I need your skill - Unknown </div>
