@@ -14,7 +14,7 @@ public class Race {
         }
     }
     public void result() {
-         if(getRank()==runner){
+        
             try {
                 Thread.sleep(runner * 1000);
             } catch (InterruptedException e) {
@@ -27,7 +27,7 @@ public class Race {
             for(int i = 3; i < runners.size(); i++){
                 System.out.printf("%s losses\n", runners.get(i));
             }
-        }
+        
     }
     public void addRunner(){
         runner++;
